@@ -28,6 +28,9 @@ Github :
 
 ## Experience
 
+- 국내, 국제 통계 자료를 활용한 데이터 분석 프로젝트 진행
+- 한국은행 open api 를 활용한 회사들의 빅데이터 통계 분석 프로젝트
+
 
 # Introduction
 
