@@ -18,7 +18,11 @@ Github :
 
 ## Skills 
 
+
 ## 자격증 및 수상
+
+- 문서작성: 컴퓨터활용능력 1급, E-test Professionals Word, PPT, Execel
+- 한국사능력검정 1급
 
 ## Experience
 
