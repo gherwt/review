@@ -4,6 +4,11 @@
 이름 : 이상민
 생년월일 : 1996-06-17
 
+## 연락처
+
+HP: 010 - 9541 - 6901
+E-mail: gherwt13@naver.com
+
 
 ## Education
 
