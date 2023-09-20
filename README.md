@@ -18,6 +18,8 @@ Github :
 
 ## Skills 
 
+- 외국어: Toeic 845
+- Python 활용 통계 분석, R 기초 수준
 
 ## 자격증 및 수상
 
